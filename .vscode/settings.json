@@ -1,0 +1,13 @@
+{
+	"IDX.aI.enableInlineCompletion": true,
+	"IDX.aI.enableCodebaseIndexing": true,
+	"prettier.useTabs": true,
+	"prettier.jsxSingleQuote": true,
+	"prettier.singleQuote": true,
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.formatOnSave": true,
+	"editor.detectIndentation": false,
+	"editor.insertSpaces": false,
+	"editor.tabSize": 2,
+	"editor.linkedEditing": true
+}
